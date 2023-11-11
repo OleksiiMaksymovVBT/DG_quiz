@@ -3,16 +3,6 @@ Use a language of your choice (Python / C++ / C# / Java / JavaScript / Dart) to 
 
 Please designate 2 hours of uninterrupted time, and try to solve as many problems as possible on your own. Do not google solutions or use the Internet. Do not worry if you do not solve them all, or run out of time – we will be discussing them in the follow-up interview.
 
-### [Sum up a binary tree](#Sum-up-a-binary-tree)
-### [Find an area of the intersection of two rectangles](#Find-an-area-of-the-intersection-of-two-rectangles)
-### [Palindrome check](#Palindrome-check)
-### [K-th to last node](#K-th-to-last-node)
-### [Duplicates](#Duplicates)
-### [Intersection](#Intersection)
-### [RLE Encoder](#RLE-Encoder)
-### [Search Insert Position](#Search-Insert-Position)
-### [Complexity](#Complexity)
-### [Archiver](#Archiver)
 
 ## Sum up a binary tree
 
